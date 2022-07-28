@@ -1,0 +1,10 @@
+.first{
+    width: 45%;
+    height:650px;
+    background-color: #3f3232;
+    color:rgb(117, 181, 181);
+    font-size:30px;
+}
+body{
+    background-image: url("../static/simplify.jpg");
+}

@@ -1,0 +1,31 @@
+body{
+    font: 16px/1.8 sans-serif;
+    background-color:linear-gradient(-30deg, #E6F0FC, #BDE5D1);
+    /* align-items: center; */
+    align-content: center;
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+}
+.header{
+    font-size:30px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    /* height:285px; */
+    background-color: #BDE5D1;
+    box-shadow:(0 4px 16px #aaa);
+    width: 500px;
+    padding:1rem;
+    border-radius:1rem;
+    margin: 30px auto;
+    border-top: solid 8px teal
+}
+.header h1{
+    margin: 0;
+    font-size: 83px;
+    text-align: center;
+    background: #fff;
+    line-height: 1;
+}
